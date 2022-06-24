@@ -48,14 +48,14 @@ h3{
     background-color: rgba(0, 0, 0, 0.5);
 }
 .logo:hover{
-    /* transform: translate(-3px, 3px); */
+    transform: translate(-3px, 3px);
     transition: 2s;
     color: #AC9D7E;
     
 }
 .footer h3:hover{
     color: #AC9D7E;
-    /* transform: translate(-3px, 3px); */
+    transform: translate(-3px, 3px);
     transition: 2s;
 }
 .logo{
@@ -66,7 +66,7 @@ h3{
     list-style: none;
 }
 .nav-menu-item:hover{
-    /* transform: translate(-3px, 3px); */
+    transform: translate(-3px, 3px);
     transition: 2s;
 }
 .nav-menu-item{
