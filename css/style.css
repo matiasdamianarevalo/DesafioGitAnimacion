@@ -49,14 +49,14 @@ h3{
 }
 .logo:hover{
     transform: translate(-3px, 3px);
-    transition: 2s;
+    transition: 1.5s;
     color: #AC9D7E;
     
 }
 .footer h3:hover{
     color: #AC9D7E;
     transform: translate(-3px, 3px);
-    transition: 2s;
+    transition: 1.5s;
 }
 .logo{
     font-weight: bold;
@@ -67,7 +67,7 @@ h3{
 }
 .nav-menu-item:hover{
     transform: translate(-3px, 3px);
-    transition: 2s;
+    transition: 1.5s;
 }
 .nav-menu-item{
     margin-right: 15px;
